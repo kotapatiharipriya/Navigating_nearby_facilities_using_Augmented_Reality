@@ -1,0 +1,28 @@
+name: ar_navigation
+description: A Flutter project for AR-based Navigation
+
+publish_to: 'none' # Remove this line if you want to publish the package
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.5.0
+  # Add any other dependencies you might need
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment the following if you are using assets
+  # assets:
+  #   - assets/
+
+  # Make sure you have the required platform settings (android, ios)
