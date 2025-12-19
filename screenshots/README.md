@@ -1,16 +1,34 @@
-# railway_navigation_app
+# 🧭 Navigating Nearby Facilities using Augmented Reality
 
-A new Flutter project.
+This project is an Augmented Reality (AR) mobile application that helps users locate and navigate nearby facilities using real-time camera overlays and location services.
 
-## Getting Started
+## ✨ Features
+- AR overlay for nearby facilities
+- Location-based navigation support
+- Screens showing facility detection and navigation flow
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+![Screen 1](screenshots/screen1.png)
+![Screen 2](screenshots/screen2.png)
+![Screen 3](screenshots/screen3.png)
+![Screen 4](screenshots/screen4.png)
+![Screen 5](screenshots/screen5.png)
+![Screen 6](screenshots/screen6.png)
+![Screen 7](screenshots/screen7.png)
+![Screen 8](screenshots/screen8.png)
+![Screen 9](screenshots/screen9.png)
+![Screen 10](screenshots/screen10.png)
+![Screen 11](screenshots/screen11.png)
+![Screen 12](screenshots/screen12.png)
+![Screen 13](screenshots/screen13.png)
 
-A few resources to get you started if this is your first Flutter project:
+## ▶️ How to Run
+1. Open the project in **Android Studio**
+2. Let Gradle sync completely
+3. Run on an Android device / emulator
+4. Allow required permissions (Location / Camera)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Android (Java/Kotlin)
+- AR / Camera Overlay
+- Location Services / Maps
